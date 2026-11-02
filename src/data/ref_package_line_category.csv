@@ -1,0 +1,11 @@
+﻿code,label,sort_order,in_demo,notes,data_origin,is_simulated,source,updated_at
+room,Room,1,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+procedure,Procedure,2,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+diagnostics,Diagnostics,3,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+medicines,Medicines,4,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+professional_fee,Professional fee,5,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+SYN_REF_PACKAGE_LINE_CATEGORY_001,Room,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_PACKAGE_LINE_CATEGORY_002,Procedure,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_PACKAGE_LINE_CATEGORY_003,Diagnostics,3,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_PACKAGE_LINE_CATEGORY_004,Medicines,4,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_PACKAGE_LINE_CATEGORY_005,Professional fee,5,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

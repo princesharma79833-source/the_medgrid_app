@@ -1,0 +1,10 @@
+﻿item_id,synopsis_id,field_name,value_summary,data_origin,is_simulated,source,updated_at
+synthetic-SYN-ITEM-1,syn_001,synthetic_context,Synthetic example only,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SYN-ITEM-2,syn_002,synthetic_context,Synthetic example only,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SYN-ITEM-3,syn_003,synthetic_context,Synthetic example only,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SYN-ITEM-4,syn_004,synthetic_context,Synthetic example only,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+SYN_SYNOPSIS_ITEM_001,syn_001,synthetic_context,Synthetic example only,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_ITEM_002,syn_002,synthetic_context,Synthetic example only,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_ITEM_003,syn_003,synthetic_context,Synthetic example only,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_ITEM_004,syn_004,synthetic_context,Synthetic example only,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_ITEM_005,syn_001,synthetic_context,Synthetic example only,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

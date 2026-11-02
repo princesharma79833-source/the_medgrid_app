@@ -1,0 +1,10 @@
+﻿history_id,sos_id,status,changed_at,data_origin,is_simulated,source,updated_at
+synthetic-SOS-HIST-1,sos_001,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SOS-HIST-2,sos_002,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SOS-HIST-3,sos_003,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SOS-HIST-4,sos_004,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+SYN_SOS_STATUS_HISTORY_001,sos_001,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_STATUS_HISTORY_002,sos_002,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_STATUS_HISTORY_003,sos_003,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_STATUS_HISTORY_004,sos_004,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_STATUS_HISTORY_005,sos_001,synthetic_recorded,2026-11-02T14:12:07+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

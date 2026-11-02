@@ -1,0 +1,11 @@
+﻿practitioner_id,language,data_origin,is_simulated,source,updated_at
+doc_01,English,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+doc_02,English,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+doc_03,English,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+doc_04,English,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+doc_05,English,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+doc_01,SYN_PRACTITIONER_LANGUAGE_001_SYN01,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+doc_02,SYN_PRACTITIONER_LANGUAGE_002_SYN02,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+doc_03,SYN_PRACTITIONER_LANGUAGE_003_SYN03,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+doc_04,SYN_PRACTITIONER_LANGUAGE_004_SYN04,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+doc_05,SYN_PRACTITIONER_LANGUAGE_005_SYN05,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

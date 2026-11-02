@@ -1,0 +1,9 @@
+﻿flag_code,description,esi_max_acuity,required_capability,rule_version,clinical_validation_status,data_origin,is_simulated,source,updated_at
+synthetic_FLAG_1,Synthetic synthetic rule; not clinically validated.,1,,synthetic-1,not_validated,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:11:31+00:00
+synthetic_FLAG_2,Synthetic synthetic rule; not clinically validated.,2,,synthetic-1,not_validated,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:11:31+00:00
+synthetic_FLAG_3,Synthetic synthetic rule; not clinically validated.,3,,synthetic-1,not_validated,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:11:31+00:00
+SYN_RED_FLAG_RULE_001,Synthetic synthetic rule; not clinically validated.,1,,synthetic-1,not_validated,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_RED_FLAG_RULE_002,Synthetic synthetic rule; not clinically validated.,2,,synthetic-1,not_validated,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_RED_FLAG_RULE_003,Synthetic synthetic rule; not clinically validated.,3,,synthetic-1,not_validated,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_RED_FLAG_RULE_004,Synthetic synthetic rule; not clinically validated.,1,,synthetic-1,not_validated,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_RED_FLAG_RULE_005,Synthetic synthetic rule; not clinically validated.,2,,synthetic-1,not_validated,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

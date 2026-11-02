@@ -1,0 +1,8 @@
+﻿code,label,sort_order,in_demo,notes,data_origin,is_simulated,source,updated_at
+BLS,Basic Life Support,1,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+ALS,Advanced Life Support,2,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+SYN_REF_AMBULANCE_CLASS_001,Basic Life Support,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_AMBULANCE_CLASS_002,Advanced Life Support,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_AMBULANCE_CLASS_003,Basic Life Support,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_AMBULANCE_CLASS_004,Advanced Life Support,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_AMBULANCE_CLASS_005,Basic Life Support,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

@@ -1,0 +1,15 @@
+﻿item_id,package_id,category,item_name,amount,data_origin,is_simulated,source,updated_at
+pli_01_1,pkg_01,room,Illustrative room component,1400.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_01_2,pkg_01,procedure,Illustrative procedure component,4200.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_01_3,pkg_01,diagnostics,Illustrative diagnostics component,1400.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_02_1,pkg_02,room,Illustrative room component,1100.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_02_2,pkg_02,procedure,Illustrative procedure component,3300.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_02_3,pkg_02,diagnostics,Illustrative diagnostics component,1100.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_03_1,pkg_03,room,Illustrative room component,300.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_03_2,pkg_03,procedure,Illustrative procedure component,900.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+pli_03_3,pkg_03,diagnostics,Illustrative diagnostics component,300.0,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+SYN_PACKAGE_LINE_ITEM_001,pkg_01,room,Illustrative room component,1400.0,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PACKAGE_LINE_ITEM_002,pkg_01,procedure,Illustrative procedure component,4200.0,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PACKAGE_LINE_ITEM_003,pkg_01,diagnostics,Illustrative diagnostics component,1400.0,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PACKAGE_LINE_ITEM_004,pkg_02,room,Illustrative room component,1100.0,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PACKAGE_LINE_ITEM_005,pkg_02,procedure,Illustrative procedure component,3300.0,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

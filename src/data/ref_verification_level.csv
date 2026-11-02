@@ -1,0 +1,10 @@
+﻿code,label,sort_order,in_demo,notes,data_origin,is_simulated,source,updated_at
+L0,Unverified,1,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+L1,Identity checked,2,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+L2,License checked,3,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+L3,Education and license checked,4,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+SYN_REF_VERIFICATION_LEVEL_001,Unverified,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_VERIFICATION_LEVEL_002,Identity checked,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_VERIFICATION_LEVEL_003,License checked,3,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_VERIFICATION_LEVEL_004,Education and license checked,4,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_VERIFICATION_LEVEL_005,Unverified,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

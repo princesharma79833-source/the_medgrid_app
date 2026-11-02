@@ -1,0 +1,8 @@
+﻿code,label,sort_order,in_demo,notes,data_origin,is_simulated,source,updated_at
+icu,ICU,1,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+general,General ward,2,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+SYN_REF_BED_TYPE_001,ICU,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_BED_TYPE_002,General ward,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_BED_TYPE_003,ICU,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_BED_TYPE_004,General ward,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_BED_TYPE_005,ICU,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

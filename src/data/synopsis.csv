@@ -1,0 +1,10 @@
+﻿synopsis_id,patient_id,chief_complaint,onset_time,hr,bp_sys,bp_dia,spo2,rr,temp_c,acuity,rule_version,created_at,data_origin,is_simulated,source,updated_at
+syn_001,pat_001,chest discomfort,2026-11-02T12:50:00+00:00,92,130,82,97,18,36.8,ESI3,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+syn_002,pat_002,knee pain,2026-11-02T12:50:00+00:00,78,124,78,98,16,36.7,ESI4,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+syn_003,pat_003,fever,2026-11-02T12:50:00+00:00,102,118,76,96,20,38.1,ESI3,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+syn_004,pat_004,shortness of breath,2026-11-02T12:50:00+00:00,110,145,90,93,24,37.0,ESI2,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+SYN_SYNOPSIS_001,pat_001,chest discomfort,2026-11-02T12:50:00+00:00,92,130,82,97,18,36.8,ESI3,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_002,pat_002,knee pain,2026-11-02T12:50:00+00:00,78,124,78,98,16,36.7,ESI4,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_003,pat_003,fever,2026-11-02T12:50:00+00:00,102,118,76,96,20,38.1,ESI3,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_004,pat_004,shortness of breath,2026-11-02T12:50:00+00:00,110,145,90,93,24,37.0,ESI2,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_005,pat_001,chest discomfort,2026-11-02T12:50:00+00:00,92,130,82,97,18,36.8,ESI3,synthetic-NOT-CLINICALLY-VALIDATED-1,2026-11-02T13:50:00+00:00,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

@@ -1,0 +1,11 @@
+﻿qualification_id,practitioner_id,qualification,institution,year_awarded,verification_status,data_origin,is_simulated,source,updated_at
+synthetic-QUAL-001,doc_01,Example qualification (synthetic),synthetic institution,2012,unverified,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-QUAL-002,doc_02,Example qualification (synthetic),synthetic institution,2013,unverified,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-QUAL-003,doc_03,Example qualification (synthetic),synthetic institution,2014,unverified,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-QUAL-004,doc_04,Example qualification (synthetic),synthetic institution,2015,unverified,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-QUAL-005,doc_05,Example qualification (synthetic),synthetic institution,2016,unverified,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+SYN_PRACTITIONER_QUALIFICATION_001,doc_01,Example qualification (synthetic),synthetic institution,2012,unverified,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_QUALIFICATION_002,doc_02,Example qualification (synthetic),synthetic institution,2013,unverified,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_QUALIFICATION_003,doc_03,Example qualification (synthetic),synthetic institution,2014,unverified,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_QUALIFICATION_004,doc_04,Example qualification (synthetic),synthetic institution,2015,unverified,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_QUALIFICATION_005,doc_05,Example qualification (synthetic),synthetic institution,2016,unverified,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

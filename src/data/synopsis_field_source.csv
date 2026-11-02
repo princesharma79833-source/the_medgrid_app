@@ -1,0 +1,10 @@
+﻿synopsis_id,field_name,source_note,data_origin,is_simulated,source,updated_at
+syn_001,synthetic_context,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_002,synthetic_context,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_003,synthetic_context,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_004,synthetic_context,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_001,SYN_SYNOPSIS_FIELD_SOURCE_001_SYN01,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_002,SYN_SYNOPSIS_FIELD_SOURCE_002_SYN02,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_003,SYN_SYNOPSIS_FIELD_SOURCE_003_SYN03,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_004,SYN_SYNOPSIS_FIELD_SOURCE_004_SYN04,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_001,SYN_SYNOPSIS_FIELD_SOURCE_005_SYN05,Synthetic synthetic seed; not clinical evidence,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

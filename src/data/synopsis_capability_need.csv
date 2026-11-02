@@ -1,0 +1,10 @@
+﻿synopsis_id,capability_code,data_origin,is_simulated,source,updated_at
+syn_001,synthetic_capability,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_002,synthetic_capability,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_003,synthetic_capability,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_004,synthetic_capability,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+syn_001,SYN_SYNOPSIS_CAPABILITY_NEED_001_SYN01,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_002,SYN_SYNOPSIS_CAPABILITY_NEED_002_SYN02,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_003,SYN_SYNOPSIS_CAPABILITY_NEED_003_SYN03,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_004,SYN_SYNOPSIS_CAPABILITY_NEED_004_SYN04,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+syn_001,SYN_SYNOPSIS_CAPABILITY_NEED_005_SYN05,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

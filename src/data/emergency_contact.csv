@@ -1,0 +1,9 @@
+﻿contact_id,patient_id,name,relationship,phone,data_origin,is_simulated,source,updated_at
+ec_synthetic1,pat_001,synthetic Contact 1,synthetic relationship,+000000000000,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:13:26+00:00
+ec_synthetic2,pat_002,synthetic Contact 2,synthetic relationship,+000000000000,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:13:26+00:00
+ec_synthetic3,pat_003,synthetic Contact 3,synthetic relationship,+000000000000,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:13:26+00:00
+ec_SYN_001,pat_001,synthetic Contact 1,synthetic relationship,+000000000000,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+ec_SYN_002,pat_002,synthetic Contact 2,synthetic relationship,+000000000000,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+ec_SYN_003,pat_003,synthetic Contact 3,synthetic relationship,+000000000000,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+ec_SYN_004,pat_001,synthetic Contact 1,synthetic relationship,+000000000000,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+ec_SYN_005,pat_002,synthetic Contact 2,synthetic relationship,+000000000000,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

@@ -1,0 +1,9 @@
+﻿reply_id,quote_id,package_id,price_low,price_high,currency,replied_at,valid_until,replied_by,data_origin,is_simulated,source,updated_at
+rep_002,qr_002,pkg_1,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+rep_004,qr_004,pkg_2,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+rep_006,qr_006,pkg_2,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+SYN_QUOTE_REPLY_001,qr_002,pkg_1,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_QUOTE_REPLY_002,qr_004,pkg_2,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_QUOTE_REPLY_003,qr_006,pkg_2,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_QUOTE_REPLY_004,qr_002,pkg_1,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_QUOTE_REPLY_005,qr_004,pkg_2,4000.0,8000.0,USD,2026-11-01T17:50:00+00:00,2026-11-02T17:50:00+00:00,Synthetic provider desk,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

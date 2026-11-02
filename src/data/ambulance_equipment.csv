@@ -1,0 +1,10 @@
+﻿ambulance_id,equipment,data_origin,is_simulated,source,updated_at
+amb_001,synthetic equipment (not operationally verified),synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+amb_002,synthetic equipment (not operationally verified),synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+amb_003,synthetic equipment (not operationally verified),synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+amb_004,synthetic equipment (not operationally verified),synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+amb_001,SYN_AMBULANCE_EQUIPMENT_001_SYN01,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+amb_002,SYN_AMBULANCE_EQUIPMENT_002_SYN02,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+amb_003,SYN_AMBULANCE_EQUIPMENT_003_SYN03,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+amb_004,SYN_AMBULANCE_EQUIPMENT_004_SYN04,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+amb_001,SYN_AMBULANCE_EQUIPMENT_005_SYN05,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

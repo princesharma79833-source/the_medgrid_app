@@ -1,0 +1,9 @@
+﻿code,label,sort_order,in_demo,notes,data_origin,is_simulated,source,updated_at
+NMC,National Medical Commission,1,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+NCISM,National Commission for Indian System of Medicine,2,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+NCH,National Commission for Homoeopathy,3,1,Reference vocabulary; confirm against approved PRD before production.,reference,0,MedGrid reference seed,2026-11-02T13:50:00+00:00
+SYN_REF_REGISTRY_001,National Medical Commission,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_REGISTRY_002,National Commission for Indian System of Medicine,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_REGISTRY_003,National Commission for Homoeopathy,3,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_REGISTRY_004,National Medical Commission,1,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_REF_REGISTRY_005,National Commission for Indian System of Medicine,2,1,Reference vocabulary; confirm against approved PRD before production.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

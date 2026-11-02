@@ -1,0 +1,10 @@
+﻿sos_id,patient_id,synopsis_id,lat,lng,triggered_at,cancelled_at,status,facility_id,ambulance_id,eta_minutes,payment_blind,data_origin,is_simulated,source,updated_at
+sos_001,pat_001,syn_001,28.610000000000003,77.21000000000001,2026-11-02T13:20:00+00:00,,triggered,fac_01,amb_001,,1,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+sos_002,pat_002,syn_002,28.62,77.22,2026-11-02T13:20:00+00:00,,triggered,fac_02,amb_002,,1,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+sos_003,pat_003,syn_003,28.630000000000003,77.23,2026-11-02T13:20:00+00:00,,triggered,fac_03,amb_003,,1,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+sos_004,pat_004,syn_004,28.64,77.24000000000001,2026-11-02T13:20:00+00:00,,triggered,fac_04,amb_004,,1,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+SYN_SOS_EVENT_001,pat_001,syn_001,28.610000000000003,77.21000000000001,2026-11-02T13:20:00+00:00,,triggered,fac_01,amb_001,,1,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_EVENT_002,pat_002,syn_002,28.62,77.22,2026-11-02T13:20:00+00:00,,triggered,fac_02,amb_002,,1,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_EVENT_003,pat_003,syn_003,28.630000000000003,77.23,2026-11-02T13:20:00+00:00,,triggered,fac_03,amb_003,,1,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_EVENT_004,pat_004,syn_004,28.64,77.24000000000001,2026-11-02T13:20:00+00:00,,triggered,fac_04,amb_004,,1,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SOS_EVENT_005,pat_001,syn_001,28.610000000000003,77.21000000000001,2026-11-02T13:20:00+00:00,,triggered,fac_01,amb_001,,1,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

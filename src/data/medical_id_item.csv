@@ -1,0 +1,9 @@
+﻿item_id,patient_id,item_type,item_name,detail,data_origin,is_simulated,source,updated_at
+mid_synthetic1,pat_001,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:13:26+00:00
+mid_synthetic2,pat_002,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:13:26+00:00
+mid_synthetic3,pat_003,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:13:26+00:00
+mid_SYN_001,pat_001,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+mid_SYN_002,pat_002,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+mid_SYN_003,pat_003,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+mid_SYN_004,pat_001,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+mid_SYN_005,pat_002,medication,synthetic medication preference,Synthetic placeholder; no real medical information.,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

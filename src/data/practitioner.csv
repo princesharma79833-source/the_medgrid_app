@@ -1,0 +1,18 @@
+﻿practitioner_id,name,system,specialty,registry,registration_no,verification_level,verified_at,volume_band,data_origin,is_simulated,source,updated_at
+doc_01,synthetic Practitioner 01 (SYNTHETIC),allopathy,Cardiology,NMC,SIM-0001,L1,2026-11-02T13:50:00+00:00,50_to_200,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_02,synthetic Practitioner 02 (SYNTHETIC),allopathy,Orthopaedics,NMC,SIM-0002,L1,2026-11-02T13:50:00+00:00,200_to_500,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_03,synthetic Practitioner 03 (SYNTHETIC),allopathy,Cardiothoracic surgery,NMC,SIM-0003,L1,2026-11-02T13:50:00+00:00,over_500,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_04,synthetic Practitioner 04 (SYNTHETIC),allopathy,Internal medicine,NMC,SIM-0004,L1,2026-11-02T13:50:00+00:00,under_50,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_05,synthetic Practitioner 05 (SYNTHETIC),allopathy,Oncology,NMC,SIM-0005,L1,2026-11-02T13:50:00+00:00,50_to_200,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_06,synthetic Practitioner 06 (SYNTHETIC),allopathy,Emergency medicine,NMC,SIM-0006,L1,2026-11-02T13:50:00+00:00,200_to_500,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_07,synthetic Practitioner 07 (SYNTHETIC),ayurveda,Ayurveda,NCISM,SIM-0007,L1,2026-11-02T13:50:00+00:00,over_500,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_08,synthetic Practitioner 08 (SYNTHETIC),ayurveda,Panchakarma,NCISM,SIM-0008,L1,2026-11-02T13:50:00+00:00,under_50,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_09,synthetic Practitioner 09 (SYNTHETIC),ayurveda,Ayurveda,NCISM,SIM-0009,L1,2026-11-02T13:50:00+00:00,50_to_200,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_10,synthetic Practitioner 10 (SYNTHETIC),ayurveda,Ayurveda,NCISM,SIM-0010,L1,2026-11-02T13:50:00+00:00,200_to_500,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_11,synthetic Practitioner 11 (SYNTHETIC),homeopathy,Panchakarma,NCH,SIM-0011,L1,2026-11-02T13:50:00+00:00,over_500,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+doc_12,synthetic Practitioner 12 (SYNTHETIC),homeopathy,Homeopathy,NCH,SIM-0012,L1,2026-11-02T13:50:00+00:00,under_50,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+SYN_PRACTITIONER_001,synthetic Practitioner 01 (SYNTHETIC),allopathy,Cardiology,NMC,SIM-0001,L1,2026-11-02T13:50:00+00:00,50_to_200,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_002,synthetic Practitioner 02 (SYNTHETIC),allopathy,Orthopaedics,NMC,SIM-0002,L1,2026-11-02T13:50:00+00:00,200_to_500,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_003,synthetic Practitioner 03 (SYNTHETIC),allopathy,Cardiothoracic surgery,NMC,SIM-0003,L1,2026-11-02T13:50:00+00:00,over_500,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_004,synthetic Practitioner 04 (SYNTHETIC),allopathy,Internal medicine,NMC,SIM-0004,L1,2026-11-02T13:50:00+00:00,under_50,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_PRACTITIONER_005,synthetic Practitioner 05 (SYNTHETIC),allopathy,Oncology,NMC,SIM-0005,L1,2026-11-02T13:50:00+00:00,50_to_200,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

@@ -1,0 +1,11 @@
+﻿facility_id,equipment,data_origin,is_simulated,source,updated_at
+fac_01,synthetic diagnostic equipment,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+fac_02,synthetic diagnostic equipment,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+fac_03,synthetic diagnostic equipment,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+fac_04,synthetic diagnostic equipment,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+fac_05,synthetic diagnostic equipment,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+fac_01,SYN_FACILITY_EQUIPMENT_001_SYN01,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+fac_02,SYN_FACILITY_EQUIPMENT_002_SYN02,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+fac_03,SYN_FACILITY_EQUIPMENT_003_SYN03,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+fac_04,SYN_FACILITY_EQUIPMENT_004_SYN04,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+fac_05,SYN_FACILITY_EQUIPMENT_005_SYN05,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

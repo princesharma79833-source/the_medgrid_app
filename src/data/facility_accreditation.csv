@@ -1,0 +1,7 @@
+﻿accreditation_id,facility_id,body,level,valid_until,status,evidence_note,source_id,data_origin,is_simulated,source,updated_at
+synthetic-ACC-001,fac_01,synthetic-only body,Example standard,,synthetic,Synthetic placeholder; not evidence of accreditation.,,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+SYN_FACILITY_ACCREDITATION_001,fac_01,synthetic-only body,Example standard,,synthetic,Synthetic placeholder; not evidence of accreditation.,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_ACCREDITATION_002,fac_01,synthetic-only body,Example standard,,synthetic,Synthetic placeholder; not evidence of accreditation.,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_ACCREDITATION_003,fac_01,synthetic-only body,Example standard,,synthetic,Synthetic placeholder; not evidence of accreditation.,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_ACCREDITATION_004,fac_01,synthetic-only body,Example standard,,synthetic,Synthetic placeholder; not evidence of accreditation.,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_ACCREDITATION_005,fac_01,synthetic-only body,Example standard,,synthetic,Synthetic placeholder; not evidence of accreditation.,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

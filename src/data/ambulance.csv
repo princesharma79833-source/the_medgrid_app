@@ -1,0 +1,10 @@
+﻿ambulance_id,class,plate,status,lat,lng,operator,data_origin,is_simulated,source,updated_at
+amb_001,ALS,SIM-AMB-001,available,28.610000000000003,77.21000000000001,Synthetic synthetic operator,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+amb_002,BLS,SIM-AMB-002,offline,28.62,77.22,Synthetic synthetic operator,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+amb_003,ALS,SIM-AMB-003,available,28.630000000000003,77.23,Synthetic synthetic operator,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+amb_004,BLS,SIM-AMB-004,offline,28.64,77.24000000000001,Synthetic synthetic operator,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+SYN_AMBULANCE_001,ALS,SIM-AMB-001,available,28.610000000000003,77.21000000000001,Synthetic synthetic operator,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_AMBULANCE_002,BLS,SIM-AMB-002,offline,28.62,77.22,Synthetic synthetic operator,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_AMBULANCE_003,ALS,SIM-AMB-003,available,28.630000000000003,77.23,Synthetic synthetic operator,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_AMBULANCE_004,BLS,SIM-AMB-004,offline,28.64,77.24000000000001,Synthetic synthetic operator,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_AMBULANCE_005,ALS,SIM-AMB-001,available,28.610000000000003,77.21000000000001,Synthetic synthetic operator,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

@@ -1,0 +1,2 @@
+[functions.quote-requests]
+verify_jwt = false

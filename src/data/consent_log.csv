@@ -1,0 +1,12 @@
+﻿consent_id,patient_id,purpose,scope,recipient_type,recipient_facility_id,granted_at,revoked_at,data_origin,is_simulated,source,updated_at
+con_001,pat_001,quote_sharing,Synthetic synthetic consent only,facility,fac_01,2026-11-01T13:50:00+00:00,,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+con_002,pat_002,quote_sharing,Synthetic synthetic consent only,facility,fac_02,2026-11-01T13:50:00+00:00,,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+con_003,pat_003,quote_sharing,Synthetic synthetic consent only,facility,fac_03,2026-11-01T13:50:00+00:00,,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+con_004,pat_004,quote_sharing,Synthetic synthetic consent only,facility,fac_04,2026-11-01T13:50:00+00:00,,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+con_005,pat_005,quote_sharing,Synthetic synthetic consent only,facility,fac_05,2026-11-01T13:50:00+00:00,,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+con_006,pat_006,quote_sharing,Synthetic synthetic consent only,facility,fac_06,2026-11-01T13:50:00+00:00,,synthetic,1,medgrid_seed,2026-11-02T13:50:00+00:00
+SYN_CONSENT_LOG_001,pat_001,quote_sharing,Synthetic synthetic consent only,facility,fac_01,2026-11-01T13:50:00+00:00,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_CONSENT_LOG_002,pat_002,quote_sharing,Synthetic synthetic consent only,facility,fac_02,2026-11-01T13:50:00+00:00,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_CONSENT_LOG_003,pat_003,quote_sharing,Synthetic synthetic consent only,facility,fac_03,2026-11-01T13:50:00+00:00,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_CONSENT_LOG_004,pat_004,quote_sharing,Synthetic synthetic consent only,facility,fac_04,2026-11-01T13:50:00+00:00,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_CONSENT_LOG_005,pat_005,quote_sharing,Synthetic synthetic consent only,facility,fac_05,2026-11-01T13:50:00+00:00,,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

@@ -1,0 +1,10 @@
+﻿red_flag_id,synopsis_id,flag_code,severity,data_origin,is_simulated,source,updated_at
+synthetic-SYN-FLAG-1,syn_001,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SYN-FLAG-2,syn_002,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SYN-FLAG-3,syn_003,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+synthetic-SYN-FLAG-4,syn_004,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_synthetic_seed,2026-11-02T14:12:07+00:00
+SYN_SYNOPSIS_RED_FLAG_001,syn_001,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_RED_FLAG_002,syn_002,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_RED_FLAG_003,syn_003,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_RED_FLAG_004,syn_004,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_SYNOPSIS_RED_FLAG_005,syn_001,synthetic_ONLY,synthetic_not_clinical,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00

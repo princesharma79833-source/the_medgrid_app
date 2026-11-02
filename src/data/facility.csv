@@ -1,0 +1,19 @@
+﻿facility_id,name,type,address,city,state,country,lat,lng,coord_precision,er_level,phone,licensed_beds_listed,source_id,data_origin,is_simulated,source,updated_at
+fac_01,"Apollo Hospitals, Greams Road",hospital,,Chennai,Tamil Nadu,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_02,"All India Institute of Medical Sciences, New Delhi",hospital,,New Delhi,Delhi,IN,,,approximate_unverified,,,,src_aiims,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_03,All India Institute of Ayurveda,ayush_centre,,New Delhi,Delhi,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_04,"Arya Vaidya Sala, Kottakkal",ayush_centre,,Kottakkal,Kerala,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_05,National Institute of Homoeopathy,ayush_centre,,Kolkata,West Bengal,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_06,Fortis Memorial Research Institute,hospital,,Gurugram,Haryana,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_07,"Manipal Hospital, Old Airport Road",hospital,,Bengaluru,Karnataka,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_08,Medanta - The Medicity,hospital,,Gurugram,Haryana,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_09,"Max Super Speciality Hospital, Saket",hospital,,New Delhi,Delhi,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_10,Kokilaben Dhirubhai Ambani Hospital,hospital,,Mumbai,Maharashtra,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_11,Narayana Health City,hospital,,Bengaluru,Karnataka,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_12,CIMS Hospital,hospital,,Ahmedabad,Gujarat,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+fac_13,Sanjay Gandhi Postgraduate Institute of Medical Sciences,hospital,,Lucknow,Uttar Pradesh,IN,,,approximate_unverified,,,,src_hosp,public_listing,0,facility_name_anchor_only,2026-11-02T13:50:00+00:00
+SYN_FACILITY_001,"Apollo Hospitals, Greams Road",hospital,,Chennai,Tamil Nadu,IN,,,approximate_unverified,,,,src_hosp,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_002,"All India Institute of Medical Sciences, New Delhi",hospital,,New Delhi,Delhi,IN,,,approximate_unverified,,,,src_aiims,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_003,All India Institute of Ayurveda,ayush_centre,,New Delhi,Delhi,IN,,,approximate_unverified,,,,src_hosp,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_004,"Arya Vaidya Sala, Kottakkal",ayush_centre,,Kottakkal,Kerala,IN,,,approximate_unverified,,,,src_hosp,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
+SYN_FACILITY_005,National Institute of Homoeopathy,ayush_centre,,Kolkata,West Bengal,IN,,,approximate_unverified,,,,src_hosp,synthetic,1,synthetic_generated,2026-11-02T14:25:48+00:00
