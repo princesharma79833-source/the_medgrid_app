@@ -21,7 +21,7 @@ export default function Hospitals() {
       <div className="max-w-3xl">
         <span className="chip bg-primary-100 text-primary-700"><Building2 size={13} /> Care network</span>
         <h1 className="section-title mt-3 text-4xl">Facilities mapped from public source records</h1>
-        <p className="mt-3 text-slate-600">Browse hospital and AYUSH facility identities from the uploaded network dataset. Medgrid verifies suitability and current availability with the provider before making a recommendation.</p>
+        <p className="mt-3 text-slate-600">Browse every facility row from the uploaded dataset. Public listings and simulated test records remain visibly separated, while accreditation badges only activate when the uploaded evidence is explicitly verified.</p>
       </div>
 
       <div className="mt-8 grid gap-px overflow-hidden border border-slate-200 bg-slate-200 sm:grid-cols-4">
@@ -74,16 +74,17 @@ export default function Hospitals() {
               <div className="mt-5 space-y-2 border-t border-slate-100 pt-4 text-sm">
                 <div className="flex items-center justify-between gap-3">
                   <span className="flex items-center gap-2 text-slate-500"><ShieldCheck size={14} /> Listing status</span>
-                  <span className="flex items-center gap-1 text-slate-700"><CheckCircle2 size={14} className="text-emerald-600" /> Public listing</span>
+                  <span className={`flex items-center gap-1 ${facility.isSimulated ? 'text-amber-800' : 'text-slate-700'}`}><CheckCircle2 size={14} className={facility.isSimulated ? 'text-amber-600' : 'text-emerald-600'} /> {facility.isSimulated ? 'Synthetic test record' : 'Public listing'}</span>
                 </div>
                 <div className="flex items-center justify-between gap-3">
-                  <span className="text-slate-500">Accreditation</span>
-                  <span className="text-right text-slate-700">Verification pending</span>
+                  <span className="text-slate-500">Accreditation badge</span>
+                  <span className={`text-right ${facility.accreditationStatus === 'verified' ? 'font-semibold text-emerald-700' : 'text-slate-700'}`}>{facility.accreditationLabel}</span>
                 </div>
                 <div className="flex items-center justify-between gap-3">
                   <span className="text-slate-500">Source</span>
-                  <span className="text-right text-slate-700">{facility.source}</span>
+                  <span className="text-right text-slate-700">{facility.sourceTitle}</span>
                 </div>
+                {facility.isSimulated && <p className="border border-amber-200 bg-amber-50 px-2 py-1.5 text-xs leading-5 text-amber-900">Shown because it is present in the uploaded CSV. This record is not a real-world verification.</p>}
               </div>
 
               <Link to="/inquiry" className="btn-secondary mt-5 w-full justify-between">
