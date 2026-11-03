@@ -11,6 +11,7 @@ import About from './pages/About'
 import Inquiry from './pages/Inquiry'
 import Login from './pages/Login'
 import NotFound from './pages/NotFound'
+import Operations from './pages/Operations'
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="/ayush" element={<Ayush />} />
           <Route path="/treatments" element={<Treatments />} />
           <Route path="/hospitals" element={<Hospitals />} />
+          <Route path="/operations" element={<Operations />} />
           <Route path="/stories" element={<Stories />} />
           <Route path="/about" element={<About />} />
           <Route path="/inquiry" element={<Inquiry />} />

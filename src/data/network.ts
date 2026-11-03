@@ -8,7 +8,7 @@ import sourceCsv from './data_source.csv?raw'
 
 type CsvRow = Record<string, string>
 
-function parseCsv(csv: string): CsvRow[] {
+export function parseCsv(csv: string): CsvRow[] {
   const rows: string[][] = []
   let row: string[] = []
   let cell = ''
@@ -48,7 +48,7 @@ function parseCsv(csv: string): CsvRow[] {
   }, {}))
 }
 
-function isSimulated(row: CsvRow): boolean {
+export function isSimulated(row: CsvRow): boolean {
   return row.is_simulated === '1' || row.data_origin === 'synthetic' || row.source?.includes('synthetic') === true || row.facility_id?.startsWith('SYN_') === true
 }
 

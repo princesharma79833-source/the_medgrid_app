@@ -7,6 +7,7 @@ const links = [
   { to: '/treatments', label: 'Treatments' },
   { to: '/ayush', label: 'AYUSH', highlight: true },
   { to: '/hospitals', label: 'Hospitals' },
+  { to: '/operations', label: 'Operations' },
   { to: '/stories', label: 'Stories' },
   { to: '/about', label: 'About' },
 ]
